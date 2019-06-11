@@ -1,10 +1,10 @@
 # Handing in homework
 
-Starting with  the JavaScript2 module we expect you to hand in homework by using the GitHub [Forking Workflow](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md). This involves the following steps:
+Starting with  the JavaScript2 module we expect you to hand in homework by using the GitHub [Forking Workflow](https://github.com/foocoding/Git/blob/master/Lecture-3.md). This involves the following steps:
 
 ## Forking 
 
-1. Go to the [HackYourFuture GitHub page](https://github.com/HackYourFuture) and click on the repository of the current HYF module, e.g. `JavaScript2`.
+1. Go to the [FooCoding GitHub page](https://github.com/foocoding) and click on the repository of the current HYF module, e.g. `JavaScript2`.
 
 2. In the upper-right corner, press the [**Fork**] button.
 
@@ -12,7 +12,7 @@ Starting with  the JavaScript2 module we expect you to hand in homework by using
 
 4. After a couple of seconds, you will be taken to your own GitHub account, in the repository just forked.
 
-5. Now, clone this forked repository (_not the original HYF one!_) to your laptop.
+5. Now, clone this forked repository (_not the original FooCoding one!_) to your laptop.
 
 ## Commit and Push
 
@@ -65,7 +65,7 @@ When you have finished your homework and wish to hand it in, do so via a **pull 
 
 3. Click the button [**New pull request**].
 
-4. Select the HackYourFuture repository master branch on the left side and your repository and homework branch on the right side.
+4. Select the FooCoding repository master branch on the left side and your repository and homework branch on the right side.
 
 5. Press the green [**Create pull request**] button to continue.
 
@@ -78,5 +78,5 @@ When you have finished your homework and wish to hand it in, do so via a **pull 
 Take a look at [this video](https://www.youtube.com/watch?v=-o0yomUVVpU)
 made by Daan, where he explains this process in detail.
 
-Also review the [Git workflow material](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md)
+Also review the [Git workflow material](https://github.com/foocoding/Git/blob/master/Lecture-3.md)
 and use it as a reference.
